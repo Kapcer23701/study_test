@@ -4,7 +4,8 @@
     "extensions": [
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
-        "GitHub.copilot"
+        "GitHub.copilot",
+        "ms-python.python"
     ],
     "settings": {
         "editor.formatOnSave": true,
